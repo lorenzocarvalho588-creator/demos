@@ -4,6 +4,8 @@ Um assistente pessoal que reúne conversas e áreas de trabalho em uma interface
 
 ![Visão geral da interface do Jarvis](visao-geral.jpg)
 
+<img src="visao-celular.jpg" alt="Interface do Jarvis no celular" width="300">
+
 ## Problema
 
 Conversas, ideias, referências e tarefas ficavam espalhadas. O objetivo era entrar em uma área de trabalho, conversar sobre aquele contexto e voltar depois sem perder o histórico.
